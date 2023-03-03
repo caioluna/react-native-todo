@@ -13,5 +13,11 @@
 # The App
 Here are a couple screenshot of the app.
 
-<img src="assets/readme/phone1.png" alt="drawing" width="300"/>
-<img src="assets/readme/phone2.png" alt="drawing" width="300"/>
+<table>
+<tr>
+<td>
+  <img src="assets/readme/phone1.png" alt="drawing" width="300"/>
+  <img src="assets/readme/phone2.png" alt="drawing" width="300"/>
+</td>
+</tr>
+</table>
